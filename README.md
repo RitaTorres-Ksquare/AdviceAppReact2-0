@@ -1,2 +1,3 @@
 # AdviceAppReact2-0
-https://snack.expo.dev/@titibebe/adviceapp
+
+https://magnificent-crisp-466fb5.netlify.app/
